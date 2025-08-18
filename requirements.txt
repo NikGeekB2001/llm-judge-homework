@@ -1,0 +1,7 @@
+vllm
+openai
+requests
+mlflow
+pandas
+scikit-learn
+python-dotenv
